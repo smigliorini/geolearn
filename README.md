@@ -1,4 +1,4 @@
-Code for paper "Towards Learned Geospatial Data Analysis & Exploration".
+Code for paper "On the Applicability of Artificial Intelligence Models to Geospatial Data Analysis and Exploration".
 
 
 *Datasets:* https://drive.google.com/drive/folders/19L_QbU1noJ-i2LWfDvdrUQWP5-UgkBVM?usp=share_link
@@ -88,7 +88,7 @@ python results_summary_un.py
 python results_summary_un2.py
 ```
 
-Similarly, in the folder `poly2vec_transformer`, chagne the output folders and the paths to the stored models, in the files that start with `p2_poly2vec_transformer`, the variables include:
+Similarly, in the folder `poly2vec_transformer`, change the output folders and the paths to the stored models, in the files that start with `p2_poly2vec_transformer`, the variables include:
 ```python
 output_folder = '/rhome/msaee007/bigdata/pointnet_data/synthetic_data/main_exp_outputs'
 input_folder='/rhome/msaee007/bigdata/pointnet_data/weather_data/monthly_labeled/'
@@ -111,8 +111,9 @@ Finally, the file `./02_clustering/results.agg` prodcues the evaluation scores. 
 
 ## Selectivity Experiments
 
+Similarly to the previous experiments, use the scripts in `03_selectivity` folder alter properly change the paramters and the paths, for instance use the `pointnet_main_exp.py` to perform the experiments with the PointNet model, and then use the `result_summary.py` to collect the results.
 
 ## Walkability Experiments
 
-
+Similarly to the previous experiments, use the scripts in `04_walkability` folder alter properly change the paramters and the paths, for instance use the `pointnet_exp.py` to perform the experiments with the PointNet model, and then use the `result_summary.py` to collect the results.
 
