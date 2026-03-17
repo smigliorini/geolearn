@@ -1,0 +1,2 @@
+input_size,prediction_time,inference_max_memory,train_max_memory
+10000,11.273216247558594,743.9921875,814.1474609375

@@ -1,0 +1,28 @@
+torch==2.3.0
+torchvision==0.18.0
+numpy==1.26.4
+pandas==2.1.1
+lightning==2.0.9
+shapely==2.0.1
+matplotlib==3.8.0
+geopandas==0.14.0
+tensorboard==2.14.1
+huggingface-hub==0.23.2
+transformers
+tokenizers
+cosine_annealing_warmup @ git+https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup
+sentencepiece
+einops-exts
+DALLE2-pytorch @ git+https://github.com/MajidSas/DALLE2-pytorch
+x-clip @ git+https://github.com/MajidSas/x-clip
+accelerate==0.31.0
+scikit-learn
+#deepspeed
+#faiss-gpu==1.7.2
+#pynndescent==0.5.11
+binpacking==1.5.2
+#imagen-pytorch
+osmnx==1.9.3
+torcheval
+diffusers==0.32.2
+triangle
