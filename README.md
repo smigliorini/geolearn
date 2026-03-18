@@ -107,7 +107,7 @@ python p2_poly2vec_transformer_results.py
 python p2_poly2vec_transformer_results2.py
 ```
 
-Finally, the file `./02_clustering/results.agg` prodcues the evaluation scores. Make sure to update the paths appropriately, to match the output folder produced by the previous scripts, you can modify it to include the `poly2vec_transformer` by changing the paths. You can comment the line about the dbscan time at the end of the file.
+Finally, the file `./02_clustering/results.agg` produces the evaluation scores. Make sure to update the paths appropriately, to match the output folder produced by the previous scripts, you can modify it to include the `poly2vec_transformer` by changing the paths. You can comment the line about the dbscan time at the end of the file.
 
 ## Selectivity Experiments
 
