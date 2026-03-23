@@ -1,7 +1,7 @@
 Code for paper "On the Applicability of Artificial Intelligence Models to Geospatial Data Analysis and Exploration".
 
 
-*Datasets reported in Table 2:* https://drive.google.com/drive/folders/19L_QbU1noJ-i2LWfDvdrUQWP5-UgkBVM?usp=share_link
+*Datasets:* https://drive.google.com/drive/folders/19L_QbU1noJ-i2LWfDvdrUQWP5-UgkBVM?usp=share_link
 
 
 ## Setup
@@ -124,7 +124,7 @@ The results reported in the paper are then prepared using the script `04_walkabi
 
 ## Dataset Preparation
 
-The prepared datasets are shared in:
+The prepared datasets reported in Table 2 are shared in:
 
 https://drive.google.com/drive/folders/19L_QbU1noJ-i2LWfDvdrUQWP5-UgkBVM?usp=share_link
 
